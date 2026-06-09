@@ -182,7 +182,7 @@ Help businesses leverage technology to automate operations, optimize workflows, 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<a href="www.linkedin.com/in/raul-rolando-jardinot-gonzalez-728276245">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
